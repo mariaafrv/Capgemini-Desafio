@@ -1,0 +1,26 @@
+E:\Aulas\Algoritmos de Programação\Python\Desafio\bin\Debug\netcoreapp3.1\Desafio.exe
+E:\Aulas\Algoritmos de Programação\Python\Desafio\bin\Debug\netcoreapp3.1\Desafio.deps.json
+E:\Aulas\Algoritmos de Programação\Python\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.json
+E:\Aulas\Algoritmos de Programação\Python\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.dev.json
+E:\Aulas\Algoritmos de Programação\Python\Desafio\bin\Debug\netcoreapp3.1\Desafio.dll
+E:\Aulas\Algoritmos de Programação\Python\Desafio\bin\Debug\netcoreapp3.1\Desafio.pdb
+E:\Aulas\Algoritmos de Programação\Python\Desafio\obj\Debug\netcoreapp3.1\Desafio.csprojAssemblyReference.cache
+E:\Aulas\Algoritmos de Programação\Python\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfoInputs.cache
+E:\Aulas\Algoritmos de Programação\Python\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfo.cs
+E:\Aulas\Algoritmos de Programação\Python\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.CoreCompileInputs.cache
+E:\Aulas\Algoritmos de Programação\Python\Desafio\obj\Debug\netcoreapp3.1\Desafio.dll
+E:\Aulas\Algoritmos de Programação\Python\Desafio\obj\Debug\netcoreapp3.1\Desafio.pdb
+E:\Aulas\Algoritmos de Programação\Python\Desafio\obj\Debug\netcoreapp3.1\Desafio.genruntimeconfig.cache
+C:\Users\maafe\Downloads\Desafio\bin\Debug\netcoreapp3.1\Desafio.exe
+C:\Users\maafe\Downloads\Desafio\bin\Debug\netcoreapp3.1\Desafio.deps.json
+C:\Users\maafe\Downloads\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.json
+C:\Users\maafe\Downloads\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.dev.json
+C:\Users\maafe\Downloads\Desafio\bin\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\maafe\Downloads\Desafio\bin\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\maafe\Downloads\Desafio\obj\Debug\netcoreapp3.1\Desafio.csprojAssemblyReference.cache
+C:\Users\maafe\Downloads\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfoInputs.cache
+C:\Users\maafe\Downloads\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfo.cs
+C:\Users\maafe\Downloads\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\maafe\Downloads\Desafio\obj\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\maafe\Downloads\Desafio\obj\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\maafe\Downloads\Desafio\obj\Debug\netcoreapp3.1\Desafio.genruntimeconfig.cache
